@@ -23,3 +23,20 @@
 # 
 #     Have fun with your server and see you around! 👋
 #
+#     ╔═════════════════════════════════════════════════════════════════════════════════╗
+#     ║                              What you can do now?                               ║
+#     ╠═════════════════════════════════════════════════════════════════════════════════╣
+#     ║ 1. Add a free subdomain                                                         ║
+#     ║ - In the navbar go to More → Subdomains                                         ║
+#     ║ - Choose one of our available domains and create your own free subdomain        ║
+#     ║                                                                                 ║
+#     ║ 2. Set up your domain / subdomain with proxy                                    ║
+#     ║ - Go to More → Proxy                                                            ║
+#     ║ - Paste your subdomain (if you use ours) or your own domain / subdomain         ║
+#     ║ - This will redirect traffic from the domain to your web server                 ║
+#     ║                                                                                 ║
+#     ║ 3. Enable a free SSL certificate                                                ║
+#     ║ - While creating a proxy, check the *Enable SSL* and *Use Let's Encrypt* option ║
+#     ║ - Your server will immediately run on secure HTTPS                              ║
+#     ╚═════════════════════════════════════════════════════════════════════════════════╝
+#
