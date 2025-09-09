@@ -43,9 +43,10 @@ echo "⏳ Starting Nginx..."
 log_success "Web server is running. All services started successfully."
 clear
 curl -s https://raw.githubusercontent.com/Vahistar/BiteHost-WebHost/refs/heads/main/motd
-echo "# ╔════════════════════════════════════════════════════╦════════════════════════════════╗"
-echo "# ║ You can access your website by clicking this link: ║ http://$SERVER_IP:$SERVER_PORT ║"
-echo "# ╚════════════════════════════════════════════════════╩════════════════════════════════╝"
+echo "#"
+echo "#"
+echo "# 🎉  You can access your website by clicking this link: http://$SERVER_IP:$SERVER_PORT"
+echo "#"
 /usr/sbin/nginx -c /home/container/nginx/nginx.conf -p /home/container/
 
 # Keep the container running (optional, depending on your container setup)
