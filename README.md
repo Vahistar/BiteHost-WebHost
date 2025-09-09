@@ -20,6 +20,6 @@ To remove access and error logs from the console, edit the Nginx configuration:
 
 ---
 
-Originally forked and edited from [https://gitlab.com/tenten8401/pterodactyl-nginx](https://gitlab.com/tenten8401/pterodactyl-nginx)
+Originally forked and edited from [https://github.com/Sigma-Production/ptero-eggs](https://github.com/Sigma-Production/ptero-eggs)
 
-© Sigma Productions 2024
+BiteHost™ © 2025
